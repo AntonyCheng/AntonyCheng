@@ -4,4 +4,10 @@
 
 <div align="center"> <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyCheng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/></div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AntonyCheng" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AntonyCheng"/></div>
+
+<br><br>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=或许奔跑是为了不被抛弃&center=true&size=27"/></div>
+<br><br>
+
+<div><img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyCheng&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/></div>
