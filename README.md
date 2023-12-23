@@ -6,8 +6,8 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AntonyCheng"/></div>
 
-<br><br>
+<br>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=或许奔跑是为了不被抛弃&center=true&size=27"/></div>
-<br><br>
+<br>
 
 <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyCheng&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/></div>
