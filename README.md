@@ -56,6 +56,9 @@
   <a href="https://github.com/AntonyCheng">
     <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=种一棵树最好的时间是十年前，其次是现在。&center=true&size=15"/>
   </a>
+  <a href="https://github.com/AntonyCheng">
+    <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=屏幕上的绝不是生活的全部。&center=true&size=15"/>
+  </a>
 </div>
 
 <br>
