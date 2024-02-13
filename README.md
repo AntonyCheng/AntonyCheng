@@ -67,6 +67,6 @@
 
 <div align="center">
   <a href="https://github.com/AntonyCheng">
-    <img width="1000px" src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyCheng&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
+    <img width="1000px" src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyCheng&theme=react-dark&bg_color=20232a&hide_border=true"/>
   </a>
 </div>
