@@ -1,7 +1,5 @@
 <div align="center"> <h1>为往圣继绝学</h1> </div>
 
-<div align="center"> <h2>情人节快乐</h2> </div>
-
 <div align="center">
   <a href="https://github.com/AntonyCheng">
     <img src="https://badges.strrl.dev/visits/AntonyCheng/AntonyCheng?style=flat-square&color=red&logo=github">
@@ -55,12 +53,21 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/AntonyCheng">
-    <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=种一棵树最好的时间是十年前，其次是现在。&center=true&size=15"/>
-  </a>
-  <a href="https://github.com/AntonyCheng">
-    <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=屏幕上的绝不是生活的全部。&center=true&size=15"/>
-  </a>
+  <p>
+    <a href="https://github.com/AntonyCheng">
+      <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=种一棵树最好的时间是十年前，其次是现在。&center=true&size=15"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/AntonyCheng">
+      <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=屏幕上的绝不是生活的全部。&center=true&size=15"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/AntonyCheng">
+      <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=君子变境不变心。&center=true&size=15"/>
+    </a>
+  </p>
 </div>
 
 <br>
