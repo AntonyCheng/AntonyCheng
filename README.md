@@ -1,4 +1,6 @@
-<div align="center"> <h1>为往圣继绝学</h1> </div>
+<div align="center"> 
+  <h1>为往圣继绝学</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/AntonyCheng">
