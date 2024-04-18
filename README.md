@@ -61,6 +61,11 @@
   </p>
   <p>
     <a href="https://github.com/AntonyCheng">
+      <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=AI没有护城河，我们也没有。&center=true&size=15"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/AntonyCheng">
       <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=屏幕上的绝不是生活的全部。&center=true&size=15"/>
     </a>
   </p>
