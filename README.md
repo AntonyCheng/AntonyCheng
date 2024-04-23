@@ -66,11 +66,6 @@
   </p>
   <p>
     <a href="https://github.com/AntonyCheng">
-      <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=屏幕上的绝不是生活的全部。&center=true&size=15"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/AntonyCheng">
       <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=君子变境不变心。&center=true&size=15"/>
     </a>
   </p>
