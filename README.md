@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>为往圣继绝学</h1>
-  <h2>BUSY NOW</h2>
+  <h2>BUSY NOW!</h2>
 </div>
 <div align="center">
   <a href="https://github.com/AntonyCheng">
