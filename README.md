@@ -54,26 +54,6 @@
 <br>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/AntonyCheng">
-      <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=种一棵树最好的时间是十年前，其次是现在。&center=true&size=15"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/AntonyCheng">
-      <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=AI没有护城河。&center=true&size=15"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/AntonyCheng">
-      <img width="1000px" src="https://readme-typing-svg.herokuapp.com/?lines=君子变境不变心。&center=true&size=15"/>
-    </a>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://github.com/AntonyCheng">
     <img width="1000px" src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyCheng&theme=react-dark&bg_color=20232a&hide_border=true"/>
   </a>
