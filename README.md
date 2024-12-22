@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/AntonyCheng">
-    <img width="1000px" src="https://github-profile-trophy.vercel.app/?username=AntonyCheng"/>
+    <img width="1000px" src="https://github-profile-trophy.vercel.app/?username=AntonyCheng&row=1"/>
   </a>
 </div>
 
