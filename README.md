@@ -55,6 +55,6 @@
 
 <div align="center">
   <a href="https://github.com/AntonyCheng">
-    <img width="1000px" src="https://skillicons.dev/icons?i=java,c,py,js,ts,html,css,spring,vue,anaconda,nodejs,fastapi,maven,md,mysql,redis,elasticsearch,mongodb,rabbitmq,postgres,docker,idea,webstorm,clion,pycharm,linux,md,jenkins&perline=14"/>
+    <img width="1000px" src="https://skillicons.dev/icons?i=java,c,py,js,ts,html,css,spring,vue,anaconda,nodejs,fastapi,maven,md,mysql,redis,elasticsearch,mongodb,rabbitmq,postgres,docker,idea,webstorm,clion,pycharm,linux,nginx,jenkins&perline=14"/>
   </a>
 </div>
